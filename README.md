@@ -11,7 +11,7 @@ I used Expo and Typescript;
 ## Instalation
 
 ```bach
-git clone https://github.com/augustocardoso07/jokenpo
+git clone https://github.com/augustocardoso07/jokenpo.git
 cd jokenpo
 yarn
 yarn start
